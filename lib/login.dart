@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
+import 'event_list.dart'; // Importamos la página de eventos
 
 class LoginPage extends StatefulWidget {
   @override
@@ -21,18 +22,10 @@ class _LoginPageState extends State<LoginPage> {
         password: password,
       );
 
-      if (response != null) {
-        final userId = response.user!.id;
-        final profile = await _supabase
-            .from('profiles')
-            .select('role')
-            .eq('id', userId)
-            .single();
-
-        final role = profile['role'];
+      if (response.user != null) {
         Navigator.pushReplacement(
           context,
-          MaterialPageRoute(builder: (context) => EventListPage(role: role)),
+          MaterialPageRoute(builder: (context) => EventListPage()),
         );
       }
     } catch (error) {
