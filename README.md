@@ -14,4 +14,9 @@
     </p>
 </body>
 </html>
+<body>
+    <h1>Objetivo de la Aplicación</h1>
+    <p><strong>Objetivo General:</strong> Crear una aplicación en la que los usuarios puedan ver y registrarse en eventos, mientras que los administradores puedan agregar, editar y eliminar eventos.</p>
+</body>
+</html>
 
