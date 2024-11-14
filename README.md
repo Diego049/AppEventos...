@@ -45,5 +45,5 @@
 
 La aplicación de eventos ayuda a organizar y mostrar eventos de una manera fácil. Los usuarios pueden explorar los eventos disponibles e inscribirse en ellos si lo desean, mientras que los administradores pueden administrar toda la información de los eventos. Los filtros y el sistema de roles mejoran la experiencia de uso.
   # Capturas de pantalla
-  <img src="event1.PNG" alt="Descripción de la imagen" width="600">
+  <img src="event1.png" alt="Descripción de la imagen" width="600">
  
