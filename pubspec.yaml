@@ -1,7 +1,6 @@
 name: appeven
 description: "A new Flutter project."
-publish_to: 'none'
-version: 0.1.0
+publish_to: 'none'  # Remove this line if you want to publish your app
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
@@ -9,7 +8,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  supabase_flutter: ^2.0.0 
+  supabase_flutter: ^2.6.0
 
 dev_dependencies:
   flutter_test:
