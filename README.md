@@ -45,6 +45,12 @@
 
 La aplicación de eventos ayuda a organizar y mostrar eventos de una manera fácil. Los usuarios pueden explorar los eventos disponibles e inscribirse en ellos si lo desean, mientras que los administradores pueden administrar toda la información de los eventos. Los filtros y el sistema de roles mejoran la experiencia de uso.
   # Capturas de pantalla
- <img src="evento2.jpg" alt="Texto alternativo" width="400">
-
+<body>
+    <h1>Imagen desde mi Ordenador</h1>
+    <p>A continuación se muestra una imagen cargada desde el ordenador:</p>
+    <!-- Ruta a la imagen -->
+    <img src="evento2.jpg" alt="Descripción de la imagen" width="400">
+    <!-- Si la imagen está en una carpeta 'images', usa 'images/mi-imagen.jpg' -->
+</body>
+</html>
   
