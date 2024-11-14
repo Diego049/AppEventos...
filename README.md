@@ -45,6 +45,5 @@
 
 La aplicación de eventos ayuda a organizar y mostrar eventos de una manera fácil. Los usuarios pueden explorar los eventos disponibles e inscribirse en ellos si lo desean, mientras que los administradores pueden administrar toda la información de los eventos. Los filtros y el sistema de roles mejoran la experiencia de uso.
   # Capturas de pantalla
-  <img src="[event1.png](https://static.vecteezy.com/system/resources/previews/002/820/442/original/aa-logo-monogram-modern-design-template-free-vector.jpg)" alt="Texto alternativo" width="400">
-
- 
+  <img src="https://upen.milaulas.com/pluginfile.php/1/core_admin/logocompact/300x300/1647098022/89925310_2623778167869379_5016977600837320704_n.jpg" alt="Descripción de la imagen" width="600">
+  
