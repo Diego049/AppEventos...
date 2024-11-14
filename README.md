@@ -19,4 +19,27 @@
     <p><strong>Objetivo General:</strong> Crear una aplicación en la que los usuarios puedan ver y registrarse en eventos, mientras que los administradores puedan agregar, editar y eliminar eventos.</p>
 </body>
 </html>
+# Requisitos del Sistema
+
+## Requisitos Técnicos
+
+- **Flutter**: Herramienta usada para construir la app.
+- **Supabase**: Base de datos donde se guarda la información de los eventos y las inscripciones de los usuarios.
+
+## Requisitos Funcionales
+
+- **Sistema de Roles**: La aplicación permite el acceso con distintos roles.
+  - **Administrador**: Puede crear, editar y eliminar eventos.
+  - **Usuario**: Puede ver y registrarse en eventos.
+
+- **Funciones para los Eventos (CRUD)**: La app permite agregar, ver, editar y eliminar eventos. Cada evento tiene:
+  - Nombre
+  - Fecha
+  - Número de invitados
+  - Responsable
+  - Tipo de evento
+  - Temática
+  - Teléfono de contacto
+  - Domicilio
+
 
