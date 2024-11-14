@@ -36,7 +36,7 @@ class _EventListPageState extends State<EventListPage> {
           DropdownButton<String>(
             value: _filterType,
             hint: Text('Filtrar por tipo de evento'),
-            items: <String>['', 'Conferencia', 'Taller', 'Seminario']
+            items: <String>['', 'Graduación', 'Posada', 'Fiesta']
                 .map((String value) {
               return DropdownMenuItem<String>(
                 value: value,
