@@ -6,3 +6,12 @@
 <p><strong>Submission: </strong>14 de Nobienmbre, 2024</p>
 <p><strong>Instructor's Name: </strong> Carlos Alberto Iriarte Mrtinez</p>
 
+  <h1>Introducción</h1>
+    <p>
+        Este informe muestra el desarrollo de una aplicación de eventos para móviles, que permite a los usuarios ver y registrarse en eventos. 
+        Este tipo de práctica es muy útil para aprender y poner en acción habilidades importantes en el desarrollo de aplicaciones, como 
+        la programación, el diseño de pantallas, y el manejo de bases de datos en supabase.
+    </p>
+</body>
+</html>
+
