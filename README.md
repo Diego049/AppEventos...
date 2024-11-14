@@ -470,4 +470,6 @@ extension on PostgrestFilterBuilder {
 
   ![event1](https://github.com/user-attachments/assets/2f0308e2-da8f-4331-8937-167cbe5821b4)
 ![evento2](https://github.com/user-attachments/assets/9c97bc02-c318-41c4-8719-711f2fa9f264)
+## Conclusion 
+Tuve complicaciones al momento de conectar mi base de datos con supabase es por eso que no logre terminar al cien la app, pero para mi me deja una gran enseñanza ya que aprendi muchas cosas nuevas que me pueden servir en un futuro, para poder realizar un desarrollo de una app , ya que con este tipo de actividades nos vamos mas familiarizando con este tipo de formato
 
